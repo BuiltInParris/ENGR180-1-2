@@ -1,0 +1,45 @@
+Computational Problem Solving - Week 1
+
+Lectures
++Introduce concepts and state-of-the-art
+
+Labs
++Download data files from source
+Program descriptive and predictive statistics using MATLAB
++Provide meaningful insights via reports
+
+Final project
++Address an open-ended problem.
+
+Quizzes
++administered via MAPLE TA, demo in labs this week
+
+Biweekly Homework
++BBLearn online, submission
+
+Midterm
++First four weeks of material
+
+Week 1 - Intro to MATLAB and plotting
+Week 2 - Intro to in-built MATLAB functions (Quiz 1, HW 1 due)
+Week 3 - Random numbers, probablility (Quiz 2)
+
+
+MATLAB
+Part 1: intro to MATLAB
++Getting familiar with the program
+Command Window - Area where we enter commands
+Workspace - space where it saves variables
+Command History - history of commands
+
++Basic calculations
++Variable assingments
+
+Part 2: Plotting with MATLAB
++Plots, labels, legend
++Multiple plots on the same figure
+Part 3: MAPLE TA QUIZ DEMO
++Take quiz demo
+
+
+Email communications should be sent to: engr180drexel@gmail.com (mention section number)
